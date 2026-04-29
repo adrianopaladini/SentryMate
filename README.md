@@ -1,6 +1,6 @@
 # SentryMate
 
-> **Never miss what just happened.**
+> **Never miss what just happened.**<br>
 > A dashcam for your Mac.
 
 SentryMate is a beautifully simple macOS menu bar app that continuously records your screen in the background — so when something important happens, you can save it **after** it happens.
@@ -13,14 +13,16 @@ Whether you're capturing a bug, preserving an important meeting moment, or savin
 
 Because sometimes the most important moments are the ones you didn’t know you needed to record.
 
-* **Catch bugs after they happen**
+* **Catch bugs after they happen**<br>
   No need to reproduce an issue from memory.
 
-* **Save meeting highlights instantly**
+* **Save meeting highlights instantly**<br>
   Recover key moments without recording the entire call manually.
 
-* **Record your workflow automatically**
+* **Record your workflow automatically**<br>
   Perfect for demos, tutorials, or reviewing your process.
+
+
 
 ---
 
