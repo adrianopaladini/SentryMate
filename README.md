@@ -78,9 +78,7 @@ Built to feel native on your Mac:
 
 ## Download
 
-Available on the Mac App Store.
-
-> https://apps.apple.com/app/id6762017497
+https://www.dropbox.com/scl/fi/mxuuc45ngy22mvspnpt9z/SentryMate.dmg?rlkey=c5novy98425gwgzdv7pr19bn0&st=oad3cxic&dl=0
 
 ---
 
