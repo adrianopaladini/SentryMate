@@ -3,13 +3,13 @@
 > **Never miss what just happened.**<br>
 > A dashcam for your Mac.
 
-<img width="760" src="screen1.png"/>
+<img width="760" src="images/screen1.png"/>
 
 SentryMate is a beautifully simple macOS menu bar app that continuously records your screen in the background — so when something important happens, you can save it **after** it happens.
 
 Whether you're capturing a bug, preserving an important meeting moment, or saving an unexpected workflow, SentryMate makes sure you're always covered.
 
-<img width="760" src="screen2.png"/>
+<img width="760" src="images/screen2.png"/>
 
 ---
 
@@ -90,7 +90,7 @@ https://www.dropbox.com/scl/fi/mxuuc45ngy22mvspnpt9z/SentryMate.dmg?rlkey=c5novy
 
 To work correctly, the app request access to record screen and microphone. Give permitions and restart the app.
 
-<img width="600" src="screenrecordrequest.png"/>
+<img width="600" src="images/screenrecordrequest.png"/>
 
 ---
 
@@ -98,9 +98,9 @@ To work correctly, the app request access to record screen and microphone. Give 
 
 You can config what you want to capture, such as one or more monitors, system audio and microphone.
 
-<img width="600" src="settings1.png"/>
-<img width="600" src="settings2.png"/>
-<img width="600" src="settings3.png"/>
+<img width="600" src="images/settings1.png"/>
+<img width="600" src="images/settings2.png"/>
+<img width="600" src="images/settings3.png"/>
 
 ---
 
@@ -108,7 +108,7 @@ You can config what you want to capture, such as one or more monitors, system au
 
 with the app running, simple click in app icon on systemtray and select the desire time you want to save. Easy.
 
-<img src="menu.png"/>
+<img src="images/menu.png"/>
 
 *The grayed options with clock icon means that the app does not has this amount of time ready to save yet.
 
