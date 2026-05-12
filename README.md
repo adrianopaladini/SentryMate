@@ -82,7 +82,7 @@ Built to feel native on your Mac:
 
 ## Download
 
-https://www.dropbox.com/scl/fi/mxuuc45ngy22mvspnpt9z/SentryMate.dmg?rlkey=c5novy98425gwgzdv7pr19bn0&st=oad3cxic&dl=0
+https://github.com/adrianopaladini/SentryMate/releases/
 
 ---
 
