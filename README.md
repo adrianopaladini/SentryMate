@@ -84,7 +84,7 @@ Built to feel native on your Mac:
 
 https://github.com/adrianopaladini/SentryMate/releases/
 
-Download the latest release SentryMate.dmg file, open it on mac, and drag the SentryMate to Application folder.
+Download the latest release SentryMate.dmg file, open it on mac, and drag the SentryMate.app to Applications folder.
 
 <img width="600" src="images/install.png"/>
 
